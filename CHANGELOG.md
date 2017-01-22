@@ -24,6 +24,9 @@ _None_
   [David Jennes](https://github.com/djbe)
   [#28](https://github.com/SwiftGen/SwiftGenKit/issues/28)
   [#31](https://github.com/SwiftGen/SwiftGenKit/issues/31)
+* Added documentation for `macro`, `call` and `set` tags.  
+  [David Jennes](https://github.com/djbe)
+  [#12](https://github.com/SwiftGen/StencilSwiftKit/pull/12)
 
 ## 1.0.1
 
