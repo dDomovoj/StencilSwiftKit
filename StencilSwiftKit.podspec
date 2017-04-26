@@ -11,14 +11,14 @@ Pod::Spec.new do |s|
                    for writing Stencil templates generating *Swift* code.
                    DESC
 
-  s.homepage     = "https://github.com/SwiftGen/StencilSwiftKit"
+  s.homepage     = "https://github.com/dDomovoj/StencilSwiftKit"
   s.license      = "MIT"
   s.author       = { "Olivier Halligon" => "olivier@halligon.net" }
   s.social_media_url = "https://twitter.com/aligatr"
 
   s.platform = :osx, '10.9'
 
-  s.source       = { :git => "https://github.com/SwiftGen/StencilSwiftKit.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/dDomovoj/StencilSwiftKit.git", :tag => s.version.to_s }
 
   s.source_files = "Sources/**/*.swift"
 
